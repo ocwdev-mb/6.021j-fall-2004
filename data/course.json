@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biophysics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Health and Medicine",
+      "Anatomy and Physiology"
+    ]
+  ],
+  "legacy_uid": "119c66f9-9e6a-5eb5-7e2c-ba502457a03d",
+  "instructors": {
+    "content": [
+      "38973de5-71fc-27f5-2642-c330c2c9ed57"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "17364cc9-8645-e0ab-3e6f-218d8cc93e7c",
+    "website": "6-021j-quantitative-physiology-cells-and-tissues-fall-2004"
+  },
+  "course_title": "Quantitative Physiology: Cells and Tissues",
+  "course_description": "In this subject, we consider two basic topics in cellular biophysics, posed here as questions:\n\n1.  Which molecules are transported across cellular membranes, and what are the mechanisms of transport? How do cells maintain their compositions, volume, and membrane potential?\n2.  How are potentials generated across the membranes of cells? What do these potentials do?\n\nAlthough the questions posed are fundamentally biological questions, the methods for answering these questions are inherently multidisciplinary. As we will see throughout the course, the role of mathematical models is to express concepts precisely enough that precise conclusions can be drawn. In connection with all the topics covered, we will consider both theory and experiment. For the student, the educational value of examining the interplay between theory and experiment transcends the value of the specific knowledge gained in the subject matter.\n\nThis course is jointly offered through four departments, available to both undergraduates and graduates.\n",
+  "department_numbers": [
+    "6",
+    "2",
+    "20",
+    "HST"
+  ],
+  "extra_course_numbers": "2.791J,2.794J,6.521J,20.370J,20.470J,HST.541J",
+  "primary_course_number": "6.021J",
+  "course_image_thumbnail": {
+    "content": "b5b399cd-a558-138d-7259-86eeab77098f",
+    "website": "6-021j-quantitative-physiology-cells-and-tissues-fall-2004"
+  },
+  "learning_resource_types": [
+    "Projects",
+    "Problem Sets"
+  ],
+  "site_uid": "4dd1792b-9c6a-401a-9a62-6f558c27a76e",
+  "site_short_id": "6.021j-fall-2004",
+  "title": "Course Metadata"
+}
